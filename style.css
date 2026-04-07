@@ -1,7 +1,6 @@
 .cajaPrincipal{
     display: flex;
     background-color: lightsalmon;
-    flex-wrap: wrap;
     justify-content: space-evenly;
 }
 

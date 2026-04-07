@@ -1,0 +1,26 @@
+.cajaPrincipal{
+    display: flex;
+    background-color: lightsalmon;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.cajaTarjeta{
+background-color: aliceblue;
+min-width: 300px;
+}
+
+.cajaTexto{
+    background-color:lightcoral;
+    display: flex; 
+    overflow: visible;
+    overflow: hidden;
+    height: 200px;
+}
+h2{
+    background-color: greenyellow;
+}
+.textosColumna{
+    background-color: lightskyblue;
+    width: 50%;
+}
